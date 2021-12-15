@@ -1,0 +1,29 @@
+.header {
+    color: red;
+    text-align: center;
+    background-color: rgb(251, 255, 0);
+}
+
+img {
+    height: auto;
+    width: 1366px;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.steps-heading {
+    text-align: center;
+}
+
+.ingredients {
+    text-align: center;
+}
+
+.center{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+
