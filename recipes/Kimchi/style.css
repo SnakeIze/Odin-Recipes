@@ -1,0 +1,24 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titles {
+    text-align: center;
+    color:darkblue;
+}
+
+.centered-list {
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+}
+
+.colored {
+    color:darkblue;
+}   
+
+.bodycolour {
+    background-color:powderblue;
+}
