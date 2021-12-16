@@ -1,12 +1,18 @@
 .header {
-    color: red;
-    text-align: center;
-    background-color: rgb(251, 255, 0);
+    text-align: center;  
+}
+
+.bgcolour {
+    background-color: tomato;
 }
 
 img {
     height: auto;
-    width: 1366px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
 }
 
 .h2 {
